@@ -1,2 +1,1 @@
-# curso_python
-Projetos criados no curso de Python
+# curso-python-proway-202204
